@@ -7,6 +7,7 @@
 
 import Foundation
 
+// 엔진 타입
 enum Engine: String {
     case gasoline, electric, hydrogen
 }

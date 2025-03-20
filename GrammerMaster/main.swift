@@ -7,6 +7,7 @@
 
 import Foundation
 
+// MARK: - 1번
 // 1-1
 let closure: (Int, Int) -> String = {
     "두 수의 합은 \($0 + $1)입니다."
@@ -31,8 +32,7 @@ func calculate(closure: (Int, Int) -> String) {
 calculate(closure: sum) // 1-4. 두 수의 합은 3입니다.
 
 
-
-
+// MARK: - 2번
 // 2-1
 let numbers = [1, 2, 3, 4, 5]
 var result = [String]()
@@ -59,8 +59,7 @@ let anotherResult = myMap([1, 2, 3, 4, 5]) { String($0) }
 print("2-3. \(anotherResult)") // 2-3. ["1", "2", "3", "4", "5"]
 
 
-
-
+// MARK: - 3번
 // 3-1
 func a(numbers: [Int]) -> [Int] {
     var results: [Int] = []
@@ -136,8 +135,7 @@ print("3-5. \(d(elements: [1, 2, 3, 4, 5]))") // 3-5. [1, 3, 5]
 print("3-5. \(d(elements: [1.0, 2.0, 3.0, 4.0, 5.0]))") // 3-5. [1.0, 3.0, 5.0]
 
 
-
-
+// MARK: - 4번
 // 4-1
 let car = Car(brand: "Hyundai", model: "Genesis", year: "2025", engine: .gasoline)
 
