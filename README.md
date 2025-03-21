@@ -44,7 +44,7 @@ git clone https://github.com/nbcampMasterChapter2Team4/KSWSwiftMaster.git
 - https://bbiguduk.gitbook.io/swift/language-guide-1/initialization
 
 # [6] Contact
-- 📋 [https://witt1e.github.io/contact](https://witt1e.github.io/contact)
+- 📋 https://github.com/witt1e
 
 # [7] License
 MIT 라이센스
