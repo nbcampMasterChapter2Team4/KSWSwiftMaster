@@ -11,8 +11,9 @@
 - [[3] Questions](#3-questions)
 - [[4] Contribution](#4-contribution)
 - [[5] Acknowledgement](#5-acknowledgement)
-- [[6] Contact](#6-contact)
-- [[7] License](#7-license)
+- [[6] Troubleshooting](#6-troubleshooting)
+- [[7] Contact](#6-contact)
+- [[8] License](#7-license)
 
 # [1] About the Project
 - Swift 문법 테스트
@@ -43,10 +44,13 @@ git clone https://github.com/nbcampMasterChapter2Team4/KSWSwiftMaster.git
 - https://bbiguduk.gitbook.io/swift/language-guide-1/inheritance
 - https://bbiguduk.gitbook.io/swift/language-guide-1/initialization
 
-# [6] Contact
+# [6] Troubleshooting
+- https://wittie.tistory.com/14
+
+# [7] Contact
 - 📋 https://github.com/witt1e
 
-# [7] License
+# [8] License
 MIT 라이센스
 라이센스에 대한 정보는 [`LICENSE`][license-url]에 있습니다.
 
